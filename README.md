@@ -19,7 +19,7 @@
 ### **PAIRING CODE QR CODE**
    - Visit the bot site to generate a pairing code and get **SESSION ID.**
 
-     [![SAHIL-MD Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://tohid-md-pair-06797088617d.herokuapp.com/)
+     [![SAHIL-MD Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://haniajanam-f4dfd9df549b.herokuapp.com/)
 
 
 ### **Step-by-Step Deployment Guide**
